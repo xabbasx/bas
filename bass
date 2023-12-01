@@ -6,8 +6,6 @@ sudo apt install curl tar wget clang pkg-config libssl-dev jq build-essential bs
 -------------------------------------------------
 cd $HOME
 
----------------------------------------------------
-rm -rf celestia-ap
 
 -------------------------------------------------
 celestia-appd version
