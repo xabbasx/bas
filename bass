@@ -1,5 +1,5 @@
 
-------------------------------------------
+-----------------------------------------
 ---------------------------------------------
 sudo apt install curl tar wget cla pkg-cofig libssl-dev jq build-essential bsdmainutils git make ncdu -y
 -------------------------------------------------
